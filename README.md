@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shashank Kamath</h1>
-<h3 align="center">Hi, I am a web developer with expertise in HTML, CSS, JavaScript, and various front-end frameworks. I have a passion for creating visually appealing and user-friendly websites that provide a seamless experience for users.</h3>
+<h3 align="center">Hi, I am a web developer with proficiency in HTML, CSS, JavaScript, and various front-end frameworks. I have a passion for creating visually appealing and user-friendly websites that provide a seamless experience for users.</h3>
 
 <img src="https://www.lambdatest.com/resources/images/news24.gif" alt="Coding" align="right"  width="400" >
 
